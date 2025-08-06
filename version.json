@@ -1,5 +1,5 @@
 {
   "version": "1.0.8",
-  "url": "https://github.com/kruboatnabannon/Loginapp/releases/download/v1.0.8/LoginApp_v1.0.8.zip",
-  "notes": "- เปลี่ยนมาใช้ GitHub สำหรับการอัปเดต\n- แก้ไขบั๊กเล็กน้อย"
+  "url": "https://github.com/kruboatnabannon/Loginapp/releases/download/v1.0.9/LoginApp_v1.0.9.zip",
+  "notes": "- แก้ Statusbar เด้ง และ block process&domain"
 }
